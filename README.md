@@ -46,6 +46,7 @@
 ```bash
 npm install
 npm run dev
+```
 
 ## 🌟 Future Enhancements
 
@@ -61,4 +62,4 @@ npm run dev
 
 - 💼 Data Science & AI Enthusiast
 - 🔗 GitHub: https://github.com/rajrajeshwari2003
-- 🔗 LinkedIn: YOUR_LINKEDIN_URL
+- 🔗 LinkedIn: https://www.linkedin.com/in/rajrajeshwari-khatawate-/

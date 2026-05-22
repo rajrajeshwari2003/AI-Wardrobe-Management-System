@@ -2,18 +2,6 @@
 
 ✨ An AI-powered fashion assistant web application that helps users manage their wardrobe, upload clothing items, and generate smart outfit recommendations.
 
----
-
-## 🚀 Features
-
-- 🔐 User Authentication with Supabase
-- 👕 Upload and Manage Wardrobe Items
-- 🗂️ Organize Clothes by Categories
-- 🤖 AI-Based Outfit Recommendations
-- 📱 Fully Responsive UI
-- ☁️ Secure Cloud Backend with Supabase
-
----
 
 ## 🛠️ Tech Stack
 
@@ -25,16 +13,7 @@
 
 ---
 
-## 📸 Screenshots
 
-### 🔑 Login Page
-![Login](screenshots/Login.png)
-
-### 📝 Signup Page
-![Signup](screenshots/Signup.png)
-
-### 👗 Dashboard
-![Dashboard](screenshots/wardrobe-dashboard.png)
 
 ---
 
@@ -45,13 +24,7 @@ npm install
 npm run dev
 ```
 
-## 🌟 Future Enhancements
 
-- 🤖 AI-based outfit recommendations
-- 🌦️ Weather-based outfit suggestions
-- ❤️ Save favorite outfits
-- 📷 Clothing image recognition
-- 🔍 Advanced search & filtering
 
 ## 👩‍💻 Author
 

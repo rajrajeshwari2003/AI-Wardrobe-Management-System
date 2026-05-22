@@ -1,11 +1,64 @@
+# 👗 AI Wardrobe Management System
 
-  # AI Wardrobe Management System
+✨ An AI-powered fashion assistant web application that helps users manage their wardrobe, upload clothing items, and generate smart outfit recommendations.
 
-  This is a code bundle for AI Wardrobe Management System. The original project is available at https://www.figma.com/design/uB9cHrtF2KLlhdwnFZsCaR/AI-Wardrobe-Management-System.
+---
 
-  ## Running the code
+## 🚀 Features
 
-  Run `npm i` to install the dependencies.
+- 🔐 User Authentication with Supabase
+- 👕 Upload and Manage Wardrobe Items
+- 🗂️ Organize Clothes by Categories
+- 🤖 AI-Based Outfit Recommendations
+- 📱 Fully Responsive UI
+- ☁️ Secure Cloud Backend with Supabase
 
-  Run `npm run dev` to start the development server.
-  
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React
+- 📘 TypeScript
+- ⚡ Vite
+- 🟢 Supabase
+- 🎨 Tailwind CSS
+
+---
+
+## 📸 Screenshots
+
+### 🔑 Login Page
+
+![Login](./screenshots/Login.png)
+
+### 📝 Signup Page
+
+![Signup](./screenshots/Signup.png)
+
+### 👗 Dashboard
+
+![Dashboard](./screenshots/wardrobe-dashboard.png)
+
+---
+
+## ⚙️ Installation
+
+```bash
+npm install
+npm run dev
+
+## 🌟 Future Enhancements
+
+- 🤖 AI-based outfit recommendations
+- 🌦️ Weather-based outfit suggestions
+- ❤️ Save favorite outfits
+- 📷 Clothing image recognition
+- 🔍 Advanced search & filtering
+
+## 👩‍💻 Author
+
+**Rajrajeshwari Khatawate**
+
+- 💼 Data Science & AI Enthusiast
+- 🔗 GitHub: https://github.com/rajrajeshwari2003
+- 🔗 LinkedIn: YOUR_LINKEDIN_URL

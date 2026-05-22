@@ -1,0 +1,31 @@
+1.Open the project folder in VS Code:
+
+cd C:\path\to\AI_Wardrobe_With_AI
+code .
+
+
+2.Ensure Node.js is installed (use Node installer from nodejs.org). Confirm:
+
+node -v
+npm -v
+
+
+3.Install dependencies:
+
+npm install
+
+4.Start dev server:
+
+npm run dev
+
+
+Open http://localhost:3000/
+
+
+
+
+backend in supabase:
+
+account:fazil80883@gmail.com
+password: Fazil@595786
+

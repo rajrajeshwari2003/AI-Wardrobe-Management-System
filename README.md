@@ -11,11 +11,7 @@
 - 🟢 Supabase
 - 🎨 Tailwind CSS
 
----
 
-
-
----
 
 ## ⚙️ Installation
 

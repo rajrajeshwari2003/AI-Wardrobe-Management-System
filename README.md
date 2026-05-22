@@ -28,16 +28,13 @@
 ## 📸 Screenshots
 
 ### 🔑 Login Page
-
-![Login](./screenshots/Login.png)
+![Login](screenshots/Login.png)
 
 ### 📝 Signup Page
-
-![Signup](./screenshots/Signup.png)
+![Signup](screenshots/Signup.png)
 
 ### 👗 Dashboard
-
-![Dashboard](./screenshots/wardrobe-dashboard.png)
+![Dashboard](screenshots/wardrobe-dashboard.png)
 
 ---
 
